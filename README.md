@@ -2,4 +2,5 @@
 
 o que estou aprendendo: 
  - Grid Layout
- - Tamplete grid 
+ - Tamplete grid
+ - git ares
